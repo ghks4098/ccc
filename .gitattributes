@@ -1,3 +1,4 @@
 myvenv/* filter=lfs diff=lfs merge=lfs -text
 *.psd filter=lfs diff=lfs merge=lfs -text
 myvenv/Lib/site-packages/torch/lib/torch.dll filter=lfs diff=lfs merge=lfs -text
+*.dll filter=lfs diff=lfs merge=lfs -text
